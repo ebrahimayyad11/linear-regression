@@ -1,3 +1,3 @@
 # Linear Regression
 
-## [PR link]()
+## [PR link](https://github.com/ebrahimayyad11/linear-regression/pull/1)
