@@ -6,6 +6,10 @@ authors = ["ebrahim ayyad <ayyad_ebrahim@hotmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+pandas = "^1.2.5"
+jupyterlab = "^3.0.16"
+matplotlib = "^3.4.2"
+sklearn = "^0.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
